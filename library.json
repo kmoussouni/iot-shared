@@ -1,0 +1,8 @@
+{
+    "name": "iot-shared",
+    "version": "0.1.0",
+    "description": "Shared protocol and drivers for the IoT robotics ecosystem",
+    "keywords": ["iot", "protocol", "robotics"],
+    "frameworks": "arduino",
+    "platforms": ["atmelavr", "espressif32"]
+}
