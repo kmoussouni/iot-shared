@@ -6,5 +6,6 @@
 #include "actions.h"
 #include "packet.h"
 #include "payloads.h"
+#include "rf24_pipes.h"
 
 #endif
